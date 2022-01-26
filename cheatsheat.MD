@@ -4,7 +4,7 @@
 
 ![user-defined-shortcuts](user-defined-shortcuts.png)
 
-## list of userful shortcuts2
+## list of userful shortcuts
 
 | shortcut            | description                         |
 | ------------------- | ----------------------------------- |
