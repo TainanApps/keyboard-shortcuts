@@ -2,7 +2,7 @@
 
 ## user defined shortcuts
 
-![user-defined-shortcuts](user-defined-shortcuts.png)
+![user-defined-shortcuts](https://gist.github.com/hudektech/da24b850cef1b757d60753d9bec2827c?permalink_comment_id=4042627#gistcomment-4042627)
 
 ## list of userful shortcuts
 
