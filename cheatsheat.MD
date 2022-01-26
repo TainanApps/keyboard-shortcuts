@@ -4,7 +4,7 @@
 
 ![user-defined-shortcuts](https://user-images.githubusercontent.com/46292400/151159197-9306ea37-d0ca-4bf4-b3b1-af654390788d.png)
 
-## list of userful shortcuts2
+## list of userful shortcuts
 
 | shortcut            | description                         |
 | ------------------- | ----------------------------------- |
