@@ -1,6 +1,6 @@
 # Keyboard shortcuts
 
-## list of userful shortcuts
+## list of userful shortcuts2
 
 | shortcut            | description                         |
 | ------------------- | ----------------------------------- |
